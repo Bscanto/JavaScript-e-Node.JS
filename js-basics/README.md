@@ -80,6 +80,19 @@ numbers | Os valores representam números de ponto flutuante,  podem ser represe
 boolean | Boolean é um tipo de dado que só pode assumir os valores true e false.
 undefined |  Semelhante ao null, nós temos o tipo primitivo de dado undefined. Ele é designado automaticamente quando por exemplo, uma variável vazia é criada .
 null | O tipo null pode ser utilizado para representar o nada ou o vazio .
+```javascript
+//Tipos de Dados
+var name = 'Bruno'; //String
+var age = 38; //Number
+var hasCollege = true; // Boolean
+var time; //Undefined
+var food = null; //Null
+var symbol = Symbol(); //Symbol
+var newObject = {}; //Object
+```
+
+
+
 
 ### Tipos de Referência
 
